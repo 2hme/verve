@@ -1,0 +1,2 @@
+git remote add origin https://github.com/2hme/verve.git
+git push -u origin master
